@@ -1,0 +1,23 @@
+{
+    "name": "alpen",
+    "displayName": "Alpen Theme",
+    "description": "light theme",
+    "version": "1.0.0",
+    "publisher": "Yoko",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "icon": "icon.png",
+	"homepage": "https://github.com/luxelego/alpen_vscode_theme/README.md",
+	"repository": { "type": "git",	"url": "https://github.com/luxelego/alpen_vscode_theme"	},
+    "categories": [ "Themes" ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alpen",
+                "uiTheme": "vs-light",
+                "path": "./themes/alpen-color-theme.json"               
+            }
+        ]
+    }
+}
