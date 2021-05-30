@@ -1,6 +1,6 @@
 <img src="https://github.com/luxelego/alpen_vscode_theme/raw/HEAD/img/top.jpg" width="700" height="358">
 
-## Alpen - a dark [VS Code](https://code.visualstudio.com) theme
+## Alpen - a light [VS Code](https://code.visualstudio.com) theme
 
 <img src="https://github.com/luxelego/alpen_vscode_theme/raw/HEAD/img/look.png" width="700" height="550">
 
