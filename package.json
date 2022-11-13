@@ -9,7 +9,7 @@
     },
     "icon": "icon.png",
 	"homepage": "https://github.com/luxelego/alpen_vscode_theme/README.md",
-	"repository": { "type": "git",	"url": "https://github.com/luxelego/alpen_vscode_theme"	},
+	"repository": { "type": "git",	"url": "https://github.com/luxelego/alpen_vscode"	},
     "categories": [ "Themes" ],
     "contributes": {
         "themes": [
