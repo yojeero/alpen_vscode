@@ -1,8 +1,8 @@
-<img src="https://github.com/luxelego/alpen_vscode_theme/raw/HEAD/img/top.jpg" width="700" height="358">
+<img src="img/top.jpg">
 
 ## Alpen - a light [VSCode](https://code.visualstudio.com) theme
 
-<img src="https://github.com/luxelego/alpen_vscode_theme/raw/HEAD/img/look.png" width="700" height="550">
+<img src="img/look.png>
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
