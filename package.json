@@ -1,7 +1,7 @@
 {
     "name": "alpen",
     "displayName": "Alpen Theme",
-    "description": "light theme",
+    "description": "light theme for VSCode",
     "version": "1.0.0",
     "publisher": "Yoko",
     "engines": {
