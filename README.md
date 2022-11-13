@@ -6,9 +6,9 @@
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## Install using [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
+## Install using [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
 
-1. Enter [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
+1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
 2. Search for `Alpen Theme`
 
 You can easily install the **Alpen Theme** by using the **Command Palette**:
