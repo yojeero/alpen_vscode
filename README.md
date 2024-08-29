@@ -1,8 +1,6 @@
 <img width="830px" src="https://vscodethemes.com/e/yoko-luxelego.alpen/alpen.svg?language=javascript">
 
- ### Alpen theme [Live preview](https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript).
-
- <a target="_blank" href="[Alpen theme](https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript)">Live preview!</a>
+ #### Alpen theme [Live](https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript) preview.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
@@ -23,7 +21,3 @@ You can easily install the **Alpen Theme** by using the **Command Palette**:
 1. Click the `gear button` in the lower left corner.
 2. Click `Color Theme`.
 3. Select **Alpen Theme** in the list.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
