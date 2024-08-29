@@ -1,6 +1,9 @@
-<img src="img/top.jpg">
+<img width="830px" src="https://vscodethemes.com/e/yoko-luxelego.alpen/alpen.svg?language=javascript">
+<!-- <img src="img/top.jpg"> -->
 
-## Alpen - a light [VSCode](https://code.visualstudio.com) theme
+ ### Alpen theme [Live preview](https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript) >
+
+### Alpen - a light [VSCode](https://code.visualstudio.com) theme
 
 <img src="img/look.png>
 
