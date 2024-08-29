@@ -4,9 +4,9 @@
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
-### Install using [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
+### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
 
-1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
+1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
 2. Search for `Alpen Theme`
 
 You can easily install the **Alpen Theme** by using the **Command Palette**:
