@@ -1,10 +1,10 @@
 <img width="830px" src="https://vscodethemes.com/e/yoko-luxelego.alpen/alpen.svg?language=javascript">
 
- #### Alpen theme [Live preview](https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript).
+ ### Alpen theme [Live preview](https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
-#### Install using [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
+### Install using [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
 
 1. Enter [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
 2. Search for `Alpen Theme`
@@ -16,7 +16,7 @@ You can easily install the **Alpen Theme** by using the **Command Palette**:
 3. Write `Alpen Theme`
 4. Select it or press Enter to install
 
-#### Activating the Alpen Theme
+### Activating the Alpen Theme
 
 1. Click the `gear button` in the lower left corner.
 2. Click `Color Theme`.
@@ -25,8 +25,3 @@ You can easily install the **Alpen Theme** by using the **Command Palette**:
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-
-<!-- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-This work is licensed under a [MIT license](https://github.com/luxelego/alpen_vscode_theme/blob/main/LICENSE) -->
-
