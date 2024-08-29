@@ -26,7 +26,7 @@ You can easily install the **Alpen Theme** by using the **Command Palette**:
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<!-- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-This work is licensed under a [MIT license](https://github.com/luxelego/alpen_vscode_theme/blob/main/LICENSE)
+This work is licensed under a [MIT license](https://github.com/luxelego/alpen_vscode_theme/blob/main/LICENSE) -->
 
