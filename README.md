@@ -1,6 +1,6 @@
 <img width="830px" src="img/alpen.svg">
 
- ### Alpen theme [Live]([https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript](https://vscodethemes.com/e/Yoko-Luxelego.alpen/alpen)) preview.
+ ### Alpen theme [Live]([https://vscodethemes.com/e/yoko-luxelego.alpen/alpen?language=javascript](https://vscodethemes.com/e/Yoko-Luxelego.alpen/alpen) preview.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
