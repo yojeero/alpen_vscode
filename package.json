@@ -2,14 +2,14 @@
     "name": "alpen",
     "displayName": "Alpen Theme",
     "description": "light theme for VSCode",
-    "version": "1.0.0",
-    "publisher": "Yoko",
+    "version": "1.1.0",
+    "publisher": "Yojee",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.91.1"
     },
     "icon": "icon.png",
-	"homepage": "https://github.com/luxelego/alpen_vscode_theme/README.md",
-	"repository": { "type": "git",	"url": "https://github.com/luxelego/alpen_vscode"	},
+	"homepage": "https://github.com/yojeero/alpen_vscode/README.md",
+	"repository": { "type": "git",	"url": "https://github.com/yojeero/alpen_vscodee"	},
     "categories": [ "Themes" ],
     "contributes": {
         "themes": [
