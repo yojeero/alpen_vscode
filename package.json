@@ -1,22 +1,27 @@
 {
     "name": "alpen",
     "displayName": "Alpen Theme",
-    "description": "light theme for VSCode",
+    "description": "light theme",
     "version": "1.1.0",
     "publisher": "Yojee",
     "engines": {
         "vscode": "^1.91.1"
     },
     "icon": "icon.png",
-	"homepage": "https://github.com/yojeero/alpen_vscode/README.md",
-	"repository": { "type": "git",	"url": "https://github.com/yojeero/alpen_vscodee"	},
-    "categories": [ "Themes" ],
+    "homepage": "https://github.com/yojeero/alpen_vscode/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yojeero/alpen_vscode"
+    },
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Alpen",
-                "uiTheme": "vs-light",
-                "path": "./themes/alpen-color-theme.json"               
+                "uiTheme": "vs",
+                "path": "./themes/alpen-color-theme.json"
             }
         ]
     }

@@ -1,4 +1,4 @@
-<img width="830px" src="img/alpen.svg">
+<img width="830px" src="img/alpen.png">
 
  ### Alpen theme [Live](https://vscodethemes.com/e/Yoko-Luxelego.alpen/alpen) preview.
 
