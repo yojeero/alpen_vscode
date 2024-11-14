@@ -1,8 +1,8 @@
 <img width="830px" src="img/cream.png">
 
-### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yojeero.cream)
+### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=yojeero.cream)
 
-1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=YYojeero.cream)
+1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=yojeero.cream)
 2. Search for `Cream`
 
 You can easily install the **Alpen Theme** by using the **Command Palette**:
