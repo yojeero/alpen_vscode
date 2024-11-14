@@ -6,10 +6,10 @@ Go [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yojeero.cre
 
 ### Install Cream theme in VSCode
 
-Open VSCode extencions panel and Search for `Cream` theme
+Open VSCode extensions panel and Search for `Cream` theme
 
-### Activating the Cream Theme
+### Activating the Cream theme
 
 1. Click the `gear button` in the lower left corner.
-2. Click `Color Theme`.
+2. Click `Color Themes`.
 3. Select `Cream` in the list.
