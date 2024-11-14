@@ -1,6 +1,6 @@
 <img width="830px" src="img/cream.png">
 
-### Install using VSCode
+### Install Cream theme in VSCode
 
 1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=yojeero.cream)
 2. Search for `Cream`
