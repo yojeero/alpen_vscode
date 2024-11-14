@@ -1,23 +1,23 @@
-<img width="830px" src="img/alpen.png">
+<img width="830px" src="img/cream.png">
 
- ### Alpen theme [Live](https://vscodethemes.com/e/Yoko-Luxelego.alpen/alpen) preview.
+ ### Cream theme.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
-### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
+### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yojeero.cream)
 
-1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen)
-2. Search for `Alpen Theme`
+1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=YYojeero.cream)
+2. Search for `Cream`
 
 You can easily install the **Alpen Theme** by using the **Command Palette**:
 
 1. Go to View -> `Command Palette`
 2. Enter `Install Extension`
-3. Write `Alpen Theme`
+3. Write `Cream`
 4. Select it or press Enter to install
 
-### Activating the Alpen Theme
+### Activating the Cream Theme
 
 1. Click the `gear button` in the lower left corner.
 2. Click `Color Theme`.
-3. Select **Alpen Theme** in the list.
+3. Select **Cream** in the list.

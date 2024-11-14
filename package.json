@@ -1,17 +1,17 @@
 {
-    "name": "alpen",
-    "displayName": "Alpen Theme",
+    "name": "cream",
+    "displayName": "Cream",
     "description": "light theme",
     "version": "1.1.0",
-    "publisher": "Yojee",
+    "publisher": "yojeero",
     "engines": {
         "vscode": "^1.91.1"
     },
     "icon": "icon.png",
-    "homepage": "https://github.com/yojeero/alpen_vscode/README.md",
+    "homepage": "https://github.com/yojeero/cream_vscode/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yojeero/alpen_vscode"
+        "url": "https://github.com/yojeero/cream_vscode"
     },
     "categories": [
         "Themes"
@@ -19,9 +19,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Alpen",
+                "label": "Cream",
                 "uiTheme": "vs",
-                "path": "./themes/alpen-color-theme.json"
+                "path": "./themes/cream-color-theme.json"
             }
         ]
     }
