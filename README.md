@@ -1,9 +1,5 @@
 <img width="830px" src="img/cream.png">
 
- ### Cream theme.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-
 ### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yojeero.cream)
 
 1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=YYojeero.cream)
