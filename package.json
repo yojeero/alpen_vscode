@@ -2,16 +2,16 @@
     "name": "cream",
     "displayName": "Cream",
     "description": "light theme",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "yojeero",
     "engines": {
         "vscode": "^1.91.1"
     },
     "icon": "icon.png",
-    "homepage": "https://github.com/yojeero/cream_vscode/README.md",
+    "homepage": "https://github.com/yojeero/cream_vscode/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yojeero/cream_vscode"
+        "url": "https://github.com/yojeero/cream_vscode/"
     },
     "categories": [
         "Themes"
